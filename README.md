@@ -71,14 +71,9 @@ The React app will be running at `http://localhost:3000`
 | PUT    | `/api/todos/:id` | Update a todo |
 | DELETE | `/api/todos/:id` | Delete a todo |
 
-## Screenshots
-(Add relevant screenshots here)
 
 ## Contributing
 Pull requests are welcome! Please follow best practices and submit changes for review.
-
-## License
-This project is licensed under the **MIT License**.
 
 ---
 Feel free to modify this README to fit your specific app details.
