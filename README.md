@@ -1,6 +1,6 @@
 # MERN Stack ToDo App
 
-A full-stack **ToDo App** built using the **MERN (MongoDB, Express, React, Node.js) stack**. This application allows users to create, update, delete, and mark tasks as completed.
+A full-stack **ToDo App** built using the **MERN (MongoDB, Express, React, Node.js) stack**. This application allows users to create, update, delete, and mark the tasks as completed.
 
 ## Features
 - Add new tasks
