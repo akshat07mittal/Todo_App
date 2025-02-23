@@ -77,4 +77,6 @@ Pull requests are welcome! Please follow best practices and submit changes for r
 
 ---
 Feel free to modify this README to fit your specific app details.
+Any suggestions are also welcome.
+
 
